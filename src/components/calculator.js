@@ -55,7 +55,7 @@ class Calculator extends React.Component {
       <Button label={'.'} handleClick = {this.handleClick}/>
       <Button label={'='} handleClick = {this.handleClick}/>
     </div>
-    <div className="button-row">
+    <div className="clearbutton">
         <Button label={'Clear'} handleClick = {this.handleClick}/>
     </div>
     </div>
