@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Dianes's Calculator
+
+This simple calculator is designed to solve simple arithmetic functions, while also including the ability to utilize parentheses and exponents. Please follow the instructions below to view the project in your local browser.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
