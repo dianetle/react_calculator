@@ -43,6 +43,11 @@ input[type='button']{
   margin-bottom: 0.5px;
 }
 
+.clearbutton {
+	float: inherit;
+	width: 490px;
+}
+
 #root{
 	text-align:center;
 }
