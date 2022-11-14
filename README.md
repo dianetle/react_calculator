@@ -1,4 +1,4 @@
-#Dianes's Calculator
+# Diane's Calculator
 
 This simple calculator is designed to solve simple arithmetic functions, while also including the ability to utilize parentheses and exponents. Please follow the instructions below to view the project in your local browser.
 
